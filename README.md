@@ -1,5 +1,5 @@
 1. Rzut ukośny
-2. \\Aplikacja tworzy symulacje wyrzucania pocisku z ustalona prędkością początkową i kątem nachylenia oraz generuje randomowe położenie celu. Kąt oraz prędkość definiuje użytkownik. 
+\\Aplikacja tworzy symulacje wyrzucania pocisku z ustalona prędkością początkową i kątem nachylenia oraz generuje randomowe położenie celu. Kąt oraz prędkość definiuje użytkownik. 
 Rysowany jest tor pocisku linią przerywaną, a gdy użytkownik kliknie przycisk animacja, zostanie uruchomiona animacja lecącego pocisku. 
 Użytkownik może zdecydować, czy chce, aby po rzucie została odegrana melodia.
 Użytkownik może zresetować animację naciskając przycisk RESET.
